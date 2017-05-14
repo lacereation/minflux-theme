@@ -11,15 +11,15 @@ Text labels are replaced with with big fat icons that are more mobile tap friend
 Default theme of Indigo and options for Maroon, Teal, Forest, Darkslate and Radiance (based on Ubuntu's radiance)
 
 ## Easily add Your Own Color Scheme
-With a rudumentary or even no understanding of CSS it is very easy make a theme for whatever color you want.  Just take look at any of the app.css files (except the main Indigo one) for instructions.  Sorry no dark themes.  I personally don't like dark themes, so I wouldn't know how to make one.  To hack a dark theme you in addition to the above you would have to change a lot of font settings too in the base css file, which is /emm-indigo/css/app.css.  
+With a rudumentary or even no understanding of CSS it is very easy make a theme for whatever color you want.  Just take look at any of the app.css files (except the main Indigo one) for instructions.  Sorry no dark themes.  I personally don't like dark themes, so I wouldn't know how to make one.  To hack a dark theme you in addition to the above you would have to change a lot of font settings  in the base css file, which is /emm-indigo/css/app.css.  
 
 ../emm-indigo/app.css must be installed for all the other colored themes to work.
 
 ## Screenshots
 
-![indigo theme and groups menu](indigo.theme.groups.menu.png)
-![radience theme](radience.theme.png)
-![forest theme and main menu](forest.theme.main.menu.png)
-![teal theme](teal.theme.png)
-![dark slate theme](darkslate.theme.png)
-![maroon.theme](maroon.theme.png)
+![indigo theme and groups menu](indigo.theme.groups.menu.png "indigo theme and groups menu")
+![radience theme](radience.theme.png "radience theme")
+![forest theme and main menu](forest.theme.main.menu.png "forest theme and main menu")
+![teal theme](teal.theme.png "teal theme")
+![dark slate theme](darkslate.theme.png "dark slate theme")
+![maroon theme](maroon.theme.png "maroon theme")
