@@ -18,7 +18,7 @@ With a rudumentary or even no understanding of CSS it is very easy make a theme 
 ## Screenshots
 
 ![indigo theme and groups menu](indigo.theme.groups.menu.png)
-! [radience theme](radience.theme.png)
+![radience theme](radience.theme.png)
 ![forest theme and main menu](forest.theme.main.menu.png)
 ![teal theme](teal.theme.png)
 ![dark slate theme](darkslate.theme.png)
