@@ -9,7 +9,7 @@ Mobile layouts are minimalist, Miniflux is not a simple program, but it is a sim
 * Clean looking Sans-Serif Fonts.  
 * Text labels are replaced with with big fat icons that are more mobile tap friendly and look better on both mobile and the desktop.  
 * Two tone look.  
-* Default theme of Indigo and options for Maroon, Teal, Forest, Darkslate and Radiance (based on Ubuntu's radiance)
+* Default theme of Indigo and options for Maroon, Teal, Forest, Darkslate and Radiance (based on Ubuntu's Radiance)
 
 ## Easily add Your Own Color Scheme
 With a rudumentary or even no understanding of CSS it is very easy make a theme for whatever color you want.  Just take look at any of the app.css files (except the main Indigo one) for instructions.  Sorry no dark themes.  The author doesn't like dark themes, so wouldn't know how to make one.  To hack a dark theme you in addition to the above you would have to change font settings in the base css file, which is /emm-indigo/css/app.css.  
