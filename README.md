@@ -1,4 +1,4 @@
-# Even More Miniamalist (emm) minflux-theme
+# Even More Minimalist (emm) minflux-theme
 A theme with 6 color variations for the Miniflux RSS Reader
 
 ## No Responsive Design Necessary!  
