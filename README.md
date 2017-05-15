@@ -2,7 +2,7 @@
 A theme with 6 color variations for the Miniflux RSS Reader
 
 ## No Responsive Design Necessary!  
-Mobile layouts are minimalist, Miniflux is not a simple program, but it is a simple layout, with just 1 column of data.  The whole idea of the program of the program is minimalism, so the even-more-minimalist(emm) theme has only one design that works across all screen sizes.  
+Mobile layouts are minimalist, Miniflux is not a simple program, but it is a simple layout, with just 1 column of data.  The whole idea of the program is a minimalist interface, so the even-more-minimalist(emm) theme has only one minimalist design that works across all screen sizes.  
 
 ## Other Features
 Streamlines the interface by hiding Navagation links, groups and specific page tasks and options behind popup menus.  
