@@ -14,7 +14,7 @@ Mobile layouts are minimalist, Miniflux is not a simple program, but it is a sim
 ## Easily Create Your Own Color Scheme
 With a rudumentary or even no understanding of CSS it is very easy make a theme for whatever color you want.  Just take look at any of the app.css files (except the main Indigo one) for instructions.  Sorry no dark themes.  The author doesn't like dark themes, so wouldn't know how to make one.  To hack a dark theme you in addition to the above you would have to change font settings in the base css file, which is /emm-indigo/css/app.css.  
 
-../emm-indigo/app.css must be installed for all the other colored themes to work.
+themes/emm-indigo/css/app.css and the fonts in themes/emm-indigo/fonts must be installed for all the other colored themes to work.
 
 ## Screenshots
 ### Indigo Theme and groups menu
