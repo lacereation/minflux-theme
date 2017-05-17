@@ -1,0 +1,44 @@
+/*************************************
+
+to make your own custom theme:
+1. The main even-more-minimalist theme, emm-indigo, must be installed
+2. a good place to start is the html named colors:
+http://www.w3schools.com/cssref/css_colors.asp
+3. replace every instance of "maroon" below with your chosen color
+4. Click the shades link for your color.
+5. Choose a hover color, one that is 10 to 30% lighter than your main color.
+6. Replace all instances of #ff1a1a with that value
+7. For your background color you could use white (#fff) or a very light gray(#f2f2f2), or select a light color with just a hint of your main color--one up at the top of the lightness scale
+8. Replace all instances of #fff with that value
+9. Find the rgb value for your color
+10. Replace the first 3 numbers of the rgba values below. The 4th number is the degree of opaqueness.  Those should be alright, but adjust if you see fit.
+11. Save file as your_path/miniflux/themes/my-emm-theme/css/app.css
+
+
+**************************************/
+
+@import url("../../emm-indigo/css/app.css");
+body { background: #f2f2f2; border: solid 6px maroon;}
+a { color: maroon;}
+a:hover {color: #ff1a1a;} /* more lightness */
+.items article { background-color: #f2f2f2; border-bottom: 1px dotted maroon;}
+header {background-color: maroon; border-bottom: 1px dotted maroon;}
+header li a { color: maroon;}
+header nav ul {border-color: maroon; background: #f2f2f2;}
+.logo span {color: maroon;}
+header nav ul:before {background: maroon;}
+header nav ul:hover:before {color: maroon; background:  #f2f2f2; }
+.page-header ul:not(#grouplist) {border: 3px solid maroon; background: #f2f2f2;}
+#search-opener {color: maroon;}
+ul#grouplist { border: 3px solid maroon; background: #f2f2f2;}
+ul#grouplist:before {color: maroon;}
+ul#grouplist:hover:before {color: #f2f2f2;}
+#download-item a:before {color: maroon;}
+#download-item a:hover:before {color: rgba(128, 0, 0, 0.6);}
+article[data-item-bookmark="0"] .bookmark-icon:before {color: rgba(128, 0, 0, 0.6);}  
+article[data-item-bookmark="1"] .bookmark-icon:before {color: maroon;}
+article[data-item-status="read"] .read-icon:before {color: maroon;}
+article[data-item-status="unread"] .read-icon:before {color: rgba(128, 0, 0, 0.15);}
+a#previous-item:after, a#next-item:before {color: rgba(128, 0, 0, 0.3);}
+a#previous-item:hover:after, a#next-item:hover:before {color: #ff1a1a; }/* more lightness */
+#search-opener:hover:after{color: #ff1a1a; } 

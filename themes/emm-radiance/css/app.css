@@ -1,0 +1,43 @@
+/*************************************
+
+to make your own custom theme:
+1. The main even-more-minimalist theme, emm-indigo, must be installed
+2. For the main color of your theme--the color of the header, borders and links, a good place to start is at the html named colors at: http://www.w3schools.com/cssref/css_colors.asp. Get a named color or a color value, that starts with "#".
+3. replace every instance of "#cf4413" below with your chosen color
+4. At the w3schools webpage click the shades link for your color.
+5. Choose a hover color, one that is 10 to 30% lighter (or darker?) than your main color.
+6. Replace all instances of #75270b; with that value
+7. For your background color you could use white (#fff) or a very light gray(#fff5e6), or select a light color with just a hint of your main color--one up at the top of the lightness scale.
+8. Replace all instances of #fff5e6 with that value
+9. Get the rgb value for your color.  It easily can be found on the webpage, near the top of the page.
+10. Replace the first 3 numbers of the rgba values below with those numbers. The 4th number is the degree of opaqueness.  It won't be necc. to change that.
+11. Save file as your_path/miniflux/themes/my-emm-theme/css/app.css
+12. You will now be able select your theme on the Preferences page.
+
+**************************************/
+
+@import url("../../emm-indigo/css/app.css");
+body { background: #fff5e6; border: solid 6px #cf4413;}
+a { color: #cf4413;}
+a:hover {color: #75270b;} /* more lightness */
+.items article { background-color: #fff5e6; border-bottom: 1px dotted #cf4413;}
+header {background-color: #cf4413; border-bottom: 1px dotted #cf4413;}
+header li a { color: #cf4413;}
+header nav ul {border-color: #cf4413; background: #fff5e6;}
+.logo span {color: #cf4413;}
+header nav ul:before {background: #cf4413;}
+header nav ul:hover:before {color: #cf4413; background:  #fff5e6; }
+.page-header ul:not(#grouplist) {border: 3px solid #cf4413; background: #fff5e6;}
+#search-opener {color: #cf4413;}
+ul#grouplist { border: 3px solid #cf4413; background: #fff5e6;}
+ul#grouplist:before {color: #cf4413;}
+ul#grouplist:hover:before {color: #fff5e6;}
+#download-item a:before {color: #cf4413;}
+#download-item a:hover:before {color: rgba(207, 68, 19, 0.6);}
+article[data-item-bookmark="0"] .bookmark-icon:before {color: rgba(207, 68, 19, 0.6);}  
+article[data-item-bookmark="1"] .bookmark-icon:before {color: #cf4413;}
+article[data-item-status="read"] .read-icon:before {color: #cf4413;}
+article[data-item-status="unread"] .read-icon:before {color: rgba(207, 68, 19, 0.3);}
+a#previous-item:after, a#next-item:before {color: rgba(207, 68, 19, 0.3);}  
+a#previous-item:hover:after, a#next-item:hover:before {color: #75270b; }/* more lightness */
+#search-opener:hover:after {color: #75270b; } 
