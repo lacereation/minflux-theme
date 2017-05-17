@@ -1,13 +1,11 @@
 # Even More Minimalist (emm) minflux-theme
 A theme with 6 color variations for the Miniflux RSS Reader
 
-## No Responsive Design Necessary!  
-Mobile layouts are minimalist, Miniflux is not a simple program, but it is a simple layout, with just 1 column of data.  The whole idea of the program is a minimalist interface, so the even-more-minimalist(emm) theme has only one minimalist design that works across all screen sizes.  
-
-## Other Features
-* Streamlines the interface by hiding Navagation links, groups and specific page tasks and options behind popup menus.  
+## Features
+* The emm style works on every screen size without responsive design.
+* Unclutters the interface by hiding navagation links, groups and specific page tasks/options behind popup menus accessed with a mouseover or a tap.  
 * Clean looking Sans-Serif Fonts.  
-* Text labels are replaced with with big fat icons that are more mobile tap friendly and look better on both mobile and the desktop.  
+* Text labels are replaced with with big fat icons that are more mobile tap friendly and look great on both mobile and the desktop.  
 * Two tone look.  
 * Default theme of Indigo and options for Maroon, Teal, Forest, Darkslate and Radiance (based on Ubuntu's Radiance)
 
