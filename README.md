@@ -18,16 +18,16 @@ With a rudumentary or even no understanding of CSS it is very easy make a theme 
 
 ## Screenshots
 ### Indigo Theme and groups menu
-![indigo theme and groups menu](indigo.theme.groups.menu.png "indigo theme and groups menu")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/indigo.theme.groups.menu.png "indigo theme and groups menu")
 ### Radiance Theme
-![radiance theme](radience.theme.png "radiance theme")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/radience.theme.png "radiance theme")
 ### Forest Theme demonstrating main menu
-![forest theme and main menu](forest.theme.main.menu.png "forest theme and main menu")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/forest.theme.main.menu.png "forest theme and main menu")
 ### Feed Item
-![feed item](article.page.png "feed article")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/article.page.png "feed article")
 ### Teal Theme
-![teal theme](teal.theme.png "teal theme")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/teal.theme.png "teal theme")
 ### Dark Slate Theme
-![dark slate theme](darkslate.theme.png "dark slate theme")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/darkslate.theme.png "dark slate theme")
 ### Maroon Theme
-![maroon theme](maroon.theme.png "maroon theme")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/maroon.theme.png "maroon theme")
