@@ -24,7 +24,7 @@ With a rudumentary or even no understanding of CSS it is very easy make a theme 
 ### Forest Theme demonstrating main menu
 ![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/forest.theme.main.menu.png "forest theme and main menu")
 ### Feed Item
-![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/article.page.png "feed article")
+![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/feed.item.png "feed article")
 ### Teal Theme
 ![alt text](https://raw.githubusercontent.com/lacereation/minflux-theme/master/png/teal.theme.png "teal theme")
 ### Dark Slate Theme
