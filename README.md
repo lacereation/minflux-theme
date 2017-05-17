@@ -23,6 +23,8 @@ With a rudumentary or even no understanding of CSS it is very easy make a theme 
 ![radiance theme](radience.theme.png "radiance theme")
 ### Forest Theme demonstrating main menu
 ![forest theme and main menu](forest.theme.main.menu.png "forest theme and main menu")
+### Feed Item
+![feed item](article.page.png "feed article")
 ### Teal Theme
 ![teal theme](teal.theme.png "teal theme")
 ### Dark Slate Theme
